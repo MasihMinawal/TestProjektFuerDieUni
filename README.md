@@ -1,1 +1,1 @@
-"Erste Zeile der Readme Datei" 
+Eine neue Zeile die wir uns im Team genauer anschauen wollen.
